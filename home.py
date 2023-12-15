@@ -12,4 +12,4 @@ col1, col2 = st.columns(2)
 with col1:
     st.image('./pic/Arm.jpg')
 with col2:
-    st.image('./pic/hi.jpg')
+    st.image('./pic/fl.jpg')
