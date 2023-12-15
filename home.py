@@ -78,7 +78,7 @@ if st.button("ทำนายผล"):
    if out[0]=="Setosa":
       st.image("./pic/f1.jpg")
       st.header("Setosa")
-      
+
    elif out[0]=="Versicolor":
       st.image("./pic/f2.jpg")
       st.header("Versicolor")
@@ -89,4 +89,4 @@ if st.button("ทำนายผล"):
 else :
     st.button("ไม่ทำนายผล")
 
-    #st.video('https://www.youtube.com/watch?v=cSKZKtOQ-88&pp=ygU84LiE4LiZ4LiE4LiZ4LiZ4Li14LmJ4LiI4Liw4LmE4Lih4LmI4LiI4Liy4LiB4LmA4LiY4Lit4LmE4Lib', format="video/mp4", start_tim=0)
+    st.video('https://www.youtube.com/watch?v=cSKZKtOQ-88&pp=ygU84LiE4LiZ4LiE4LiZ4LiZ4Li14LmJ4LiI4Liw4LmE4Lih4LmI4LiI4Liy4LiB4LmA4LiY4Lit4LmE4Lib', format="video/mp4", start_tim=0)
