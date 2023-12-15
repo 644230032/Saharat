@@ -1,6 +1,4 @@
 import streamlit as st
-import
-from streamlit_lottie import st_lottie
 
 st.header("Saharat Pholsan")
 st.title('การทดสอบเขียนเว็บด้วย Python')
