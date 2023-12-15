@@ -91,4 +91,3 @@ else :
 
 st.video('https://www.youtube.com/watch?v=cSKZKtOQ-88&pp=ygU84LiE4LiZ4LiE4LiZ4LiZ4Li14LmJ4LiI4Liw4LmE4Lih4LmI4LiI4Liy4LiB4LmA4LiY4Lit4LmE4Lib', format="video/mp4", start_time=0)
 
-st.image('https://tse1.explicit.bing.net/th?id=OIP.ktaQGGJ7nvtQfAtH-FxbtQAAAA&pid=Api&P=0&h=220', caption=None, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
