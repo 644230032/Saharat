@@ -21,3 +21,6 @@ with col2:
 """
 st.markdown(html_1, unsafe_allow_html=True)
 st.markdown("")
+
+dt=pd.read_csv('./data/iris.csv')
+st.write(dt.head(10))
